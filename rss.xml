@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Schprocket Site]]></title>
         <description><![CDATA[Schprocket Site]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/schprocket-site/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 03:55:38 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 25 Nov 2015 03:59:56 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/schprocket-site/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Links]]></title>
+            <description><![CDATA[<article><h1>Links</h1><p>Two Track Music</p></article>]]></description>
+            <link>https://thegrid.ai/schprocket-site/0d684a74-c138-47b0-a5fa-8d139e2b2532/index.html</link>
+            <guid isPermaLink="false">0d684a74-c138-47b0-a5fa-8d139e2b2532</guid>
+            <pubDate>Wed, 25 Nov 2015 03:59:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Getting Started on The Grid]]></title>
             <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>undefinedgetting-started-on-the-grid/index.html</link>
+            <link>https://thegrid.ai/schprocket-site/getting-started-on-the-grid/index.html</link>
             <guid isPermaLink="false">f594c350-b50c-47e6-b189-42bf63993777</guid>
             <pubDate>Wed, 25 Nov 2015 03:53:41 GMT</pubDate>
         </item>
