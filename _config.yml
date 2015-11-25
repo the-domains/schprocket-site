@@ -1,7 +1,7 @@
 name: Schprocket Site
 favicon: null
-layout_spectrum: 0.5132132163271308
-typography_spectrum: 0.92363321618177
+layout_spectrum: 0.9994
+typography_spectrum: 0.33474
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.600892964983359
-  lightness: 0.4226259517017752
-  saturation: 0.01389790279790759
-  rhythmicContrast: 0.9413985826540738
+  brandStrength: 0.5
+  lightness: 0.25
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose: []
